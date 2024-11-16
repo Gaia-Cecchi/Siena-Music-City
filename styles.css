@@ -1,0 +1,65 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #B2E0F2; /* Pastel blue background */
+    margin: 0;
+    padding: 20px; /* Adds padding to the page */
+    box-sizing: border-box; /* Ensures padding and border are included in the total width and height */
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+.filters {
+    margin: 20px;
+    text-align: center;
+}
+
+.filters input {
+    padding: 8px;
+    margin-right: 10px;
+    font-size: 16px;
+    width: 300px;
+}
+
+.filters button {
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px; /* Rounded corners */
+    background-color: #00796b; /* Button color */
+    color: white; /* Text color */
+    border: none; /* Remove default border */
+}
+
+#calendar {
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: white; /* White background for the calendar */
+    padding: 20px; /* Add padding inside the calendar container */
+    border-radius: 8px; /* Slight border radius for smoother edges */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds shadow for depth */
+}
+
+.fc-event {
+    margin-bottom: 10px; /* Aggiungi margine inferiore per distanziare gli eventi */
+}
+
+.fc-daygrid-event {
+    padding: 8px; /* Aggiungi padding per rendere gli eventi più spaziosi */
+    border-radius: 5px; /* Rendi gli angoli degli eventi più arrotondati */
+    background-color: #4db6ac; /* Cambia il colore di sfondo degli eventi per maggiore contrasto */
+    color: white; /* Colore del testo degli eventi */
+}
+
+footer {
+    margin-top: 40px;
+    text-align: left;
+    font-size: 14px;
+    color: #333;
+    padding: 10px;
+    background-color: #00796b;
+    color: #fff;
+    border-radius: 4px;
+}
