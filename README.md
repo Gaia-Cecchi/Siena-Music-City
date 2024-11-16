@@ -7,7 +7,7 @@ This repository contains the code and resources developed for my master's thesis
 
 The project explores the integration of design and technology to enhance Siena's candidacy as a UNESCO Creative City for Music. It includes a prototype of a website for promoting musical events and a web scraping tool to aggregate event data.  
 
-Please note: The web scraping conducted in this project is purely for academic purposes and aims to demonstrate technical feasibility within the scope of my thesis. It is not intended to infringe on copyright or any other rights. If any issues arise, please contact me, and I will promptly address them.
+Please note: the web scraping conducted in this project is purely for academic purposes and aims to demonstrate technical feasibility within the scope of my thesis. It is not intended to infringe on copyright or any other rights. If any issues arise, please contact me, and I will promptly address them.
 
 ## Live Links
 
