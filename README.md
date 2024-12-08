@@ -9,6 +9,10 @@ The project explores the integration of design and technology to enhance Siena's
 
 Please note: the web scraping conducted in this project is purely for academic purposes and aims to demonstrate technical feasibility within the scope of my thesis. It is not intended to infringe on copyright or any other rights. If any issues arise, please contact me, and I will promptly address them.
 
+View here my **thesis defense presentation**:
+- [View PDF](https://drive.google.com/file/d/1392bzoEwEVVJTHvDeTGHus5EsjM7aLxN/view?usp=drive_link)
+- [View Canva](https://www.canva.com/design/DAGXe-lOUzY/qH4swbUynFnaC55hYguIDw/view?utm_content=DAGXe-lOUzY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h716810ae54)
+
 ## Live Links
 
 - **Web Scraping Results**:  
